@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1260-shift-2d-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
