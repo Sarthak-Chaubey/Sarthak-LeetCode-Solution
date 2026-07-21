@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -79,9 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
