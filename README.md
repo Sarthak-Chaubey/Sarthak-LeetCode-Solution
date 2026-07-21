@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
