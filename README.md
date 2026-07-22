@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
