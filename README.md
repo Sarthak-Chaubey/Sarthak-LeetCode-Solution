@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
+| [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -144,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
