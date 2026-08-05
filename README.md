@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
