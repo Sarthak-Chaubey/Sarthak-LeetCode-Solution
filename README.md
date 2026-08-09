@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
+| [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Segment Tree
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -181,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
