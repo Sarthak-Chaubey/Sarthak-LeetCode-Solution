@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,15 +199,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
