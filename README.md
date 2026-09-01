@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0120-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
