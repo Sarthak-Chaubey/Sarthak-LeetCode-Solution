@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
