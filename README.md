@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
