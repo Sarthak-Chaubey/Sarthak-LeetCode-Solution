@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
