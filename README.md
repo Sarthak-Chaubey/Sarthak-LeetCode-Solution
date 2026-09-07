@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
