@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
