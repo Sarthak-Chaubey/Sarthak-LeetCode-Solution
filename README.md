@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -267,8 +271,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
