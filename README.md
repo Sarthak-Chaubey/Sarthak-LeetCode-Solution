@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1980-find-unique-binary-string](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
+| [1980-find-unique-binary-string](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [1980-find-unique-binary-string](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0494-target-sum) |
+| [1980-find-unique-binary-string](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
