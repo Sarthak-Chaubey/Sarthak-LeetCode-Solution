@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0547-number-of-provinces) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
