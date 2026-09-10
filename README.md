@@ -305,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
