@@ -2,21 +2,20 @@ class Solution {
 public:
     int ans = 0;
 
-    
     pair<int, int> dfs(TreeNode* root) {
         if (root == NULL)
-            return {0,0};
+            return {0, 0};
 
-        auto lft = dfs(root->left);
-        auto rgt = dfs(root->right);
+        pair<int, int> left = dfs(root->left);
+        pair<int, int> right = dfs(root->right);
 
-        int sumOfValues = lft.first + rgt.first + root->val;
-        int numberOfNodes = lft.second + rgt.second + 1;
+        int sum = left.first + right.first + root->val;
+        int nodes = left.second + right.second + 1;
 
-        if (sumOfValues / numberOfNodes == root->val)
+        if (sum / nodes == root->val)
             ans++;
 
-            return {sumOfValues,numberOfNodes};
+        return {sum, nodes};
     }
 
     int averageOfSubtree(TreeNode* root) {
