@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0120-triangle) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0607-sales-person) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
