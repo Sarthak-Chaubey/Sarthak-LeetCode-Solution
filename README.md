@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Segment Tree
 |  |
