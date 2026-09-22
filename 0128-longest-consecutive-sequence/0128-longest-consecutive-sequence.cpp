@@ -3,23 +3,18 @@ public:
     int longestConsecutive(vector<int>& nums) {
         int n = nums.size();
         int ans = 0;
-
-        unordered_set<int> s(nums.begin(), nums.end());
-
-        for(auto val: s){
-            if(s.find(val-1)==s.end()){
-                int x = val;
+        unordered_set<int>s(nums.begin(),nums.end());
+        for(auto &it:s){
+            if(s.find(it-1)==s.end()){
+                int x = it;
                 int cnt = 1;
-
-                while(s.find(x+1) != s.end()){
-                    cnt++;
+                while(s.find(x+1)!=s.end()){
                     x++;
+                    cnt++;
                 }
-
-                ans = max(ans, cnt);
+                ans = max(ans,cnt);
             }
         }
-
         return ans;
     }
 };
