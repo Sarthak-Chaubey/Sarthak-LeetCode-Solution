@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
