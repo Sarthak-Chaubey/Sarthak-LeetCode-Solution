@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0202-happy-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
