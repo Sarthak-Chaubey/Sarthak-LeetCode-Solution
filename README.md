@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0509-fibonacci-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0202-happy-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
