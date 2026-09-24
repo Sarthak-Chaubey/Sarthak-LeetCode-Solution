@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
