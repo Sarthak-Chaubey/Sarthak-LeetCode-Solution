@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sarthak-Chaubey/Sarthak-LeetCode-Solution/tree/master/0189-rotate-array) |
